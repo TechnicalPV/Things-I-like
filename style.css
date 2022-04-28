@@ -1,0 +1,16 @@
+a{
+  color: red;
+    background: -webkit-linear-gradient(#428bff, #2c4c8c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h2{
+  background: -webkit-linear-gradient(black, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body{
+  background: -webkit-linear-gradient( #ffffff, #b5b5b5, #b3b3b3);
+}
